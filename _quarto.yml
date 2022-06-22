@@ -2,13 +2,12 @@ project:
   type: website
 
 website:
-  title: "test_BI_Muamalat"
+  title: "Bank Muamalat - VIX Talent Database"
   navbar:
     background: primary
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Dashboard
 
 format:
   html:
